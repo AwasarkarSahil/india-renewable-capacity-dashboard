@@ -108,4 +108,4 @@ Data sourced from the **Ministry of New and Renewable Energy (MNRE)**, Governmen
 
 ---
 
-Built by [Awasarkar](https://github.com/<your-username>) • [LinkedIn](https://linkedin.com/in/<your-linkedin>)
+Built by [Awasarkar](https://github.com/AwasarkarSahil) • [LinkedIn](https://www.linkedin.com/in/sahil-awasarkar-8908021b2/)
